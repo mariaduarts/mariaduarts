@@ -14,18 +14,6 @@
 - CSS
 - JavaScript
 
-## 📌 Projetos
-
-### 🔹 BioAcesso
-
-Plataforma web para gerenciamento e acompanhamento do fluxo de exames clínicos.
-
-Tecnologias: Java, Spring Boot, PostgreSQL, HTML, CSS e JavaScript.
-
-### 🔹 Portfólio de Dados
-
-Exercícios práticos envolvendo SQL, modelagem de dados e banco de dados.
-
 ## 📚 Atualmente estudando
 
 - Java
